@@ -2,7 +2,5 @@ Name : Garv Mehra
 AGE  : 18 yrs
 Gender : Male
 class 12
-caste yt
 
-mobile redmi
 hair color : black
